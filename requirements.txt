@@ -12,5 +12,4 @@ matplotlib
 seaborn
 python-docx
 nltk
-en_core_web_sm
 spacy
