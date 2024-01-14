@@ -8,3 +8,6 @@ pymysql
 streamlit-tags
 Pillow
 youtube_dl
+matplotlib
+seaborn
+python-docx
